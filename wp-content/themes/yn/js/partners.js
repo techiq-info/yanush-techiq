@@ -1,0 +1,1 @@
+$(function(){$(".partnerName").click(function(a){var t=$(this).attr("id").split("typeName")[1];$(".partnerName").removeClass("activePartnerName"),$(this).addClass("activePartnerName"),$(".activeListsName").fadeOut(500,function(){$(".listNames").removeClass("activeListsName"),$("#typeList"+t).fadeIn(500,function(){$("#typeList"+t).addClass("activeListsName")})})})});

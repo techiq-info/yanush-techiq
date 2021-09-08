@@ -1,0 +1,1 @@
+$(function(){$(".bulletHead .trb").click(function(r){var e=$(this).attr("id").split("trb")[1];$(".bulletHead .trb").removeClass("currentHead"),$(this).addClass("currentHead"),$(".currentPrue").slideUp("200",function(r){$(".currentPrue").removeClass("currentPrue"),$("#prut"+e).slideDown("200",function(){$("#prut"+e).addClass("currentPrue")})})})});

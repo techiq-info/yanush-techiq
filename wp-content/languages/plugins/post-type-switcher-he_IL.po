@@ -1,0 +1,56 @@
+# Translation of Plugins - Post Type Switcher - Stable (latest release) in Hebrew
+# This file is distributed under the same license as the Plugins - Post Type Switcher - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-02-16 19:06:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: he_IL\n"
+"Project-Id-Version: Plugins - Post Type Switcher - Stable (latest release)\n"
+
+#: post-type-switcher.php:212 post-type-switcher.php:239
+msgid "Post Type"
+msgstr "סוג פוסט"
+
+#. Plugin Name of the plugin
+msgid "Post Type Switcher"
+msgstr "שינוי סוגי תוכן"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/post-type-switcher/"
+msgstr "https://he.wordpress.org/plugins/post-type-switcher/"
+
+#. Author of the plugin
+msgid "John James Jacoby"
+msgstr "ג'ון ג'יימס ג'קובי"
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/johnjamesjacoby/"
+msgstr "https://profiles.wordpress.org/johnjamesjacoby/"
+
+#. Description of the plugin
+msgid "Allow switching of a post type while editing a post (in post publish section)"
+msgstr "אפשרות לשנות את סוגי התוכן בזמן עריכת הפוסט"
+
+#: post-type-switcher.php:170
+msgid "Type"
+msgstr "סוג משרה"
+
+#: post-type-switcher.php:150
+msgid "Cancel"
+msgstr "בטל"
+
+#: post-type-switcher.php:149
+msgid "OK"
+msgstr "בסדר"
+
+#: post-type-switcher.php:134
+msgid "Edit"
+msgstr "עריכה"
+
+#: post-type-switcher.php:129
+msgid "Post Type:"
+msgstr "סוג תוכן:"

@@ -1,0 +1,1 @@
+$(function(){$(".mq").click(function(e){var s=$(this).parent();$(".answer",s).hasClass("opened")?($(".answer",s).removeClass("opened"),$(".answer",s).slideUp("200")):($(".answer",s).addClass("opened"),$(".answer",s).slideDown("200"))})});

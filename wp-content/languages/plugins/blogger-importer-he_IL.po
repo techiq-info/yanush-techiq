@@ -1,0 +1,78 @@
+# Translation of Plugins - Blogger Importer - Stable (latest release) in Hebrew
+# This file is distributed under the same license as the Plugins - Blogger Importer - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-04-03 20:42:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: he_IL\n"
+"Project-Id-Version: Plugins - Blogger Importer - Stable (latest release)\n"
+
+#: blogger-importer.php:261
+msgid "Submit"
+msgstr "שלח"
+
+#: blogger-importer.php:274
+msgid "Import author:"
+msgstr "ייבוא מחברים:"
+
+#: blogger-importer.php:280
+msgid "as a new user:"
+msgstr "כמשתמש חדש:"
+
+#: blogger-importer.php:287
+msgid "- Select -"
+msgstr "- בחר -"
+
+#: blogger-importer.php:176
+msgid "All done."
+msgstr "הכל הושלם"
+
+#: blogger-importer.php:176
+msgid "Have fun!"
+msgstr "עשה חיים!"
+
+#: blogger-importer.php:197
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr "קובץ הייצוא לא נמצא ב-<code>%s</code>. כנראה שהדבר נובע מבעיות שקשורות בהרשאות."
+
+#: blogger-importer.php:249
+msgid "Assign Authors"
+msgstr "שיוך מחברים"
+
+#: blogger-importer.php:660
+msgid "None of the images are valid"
+msgstr "אף אחת מהתמונות אינה תקינה"
+
+#: blogger-importer.php:915
+msgid "Blogger"
+msgstr "בלוגר"
+
+#: blogger-importer.php:848
+msgid "Import Blogger"
+msgstr "ייבוא מבלוגר"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/extend/plugins/blogger-importer/"
+msgstr "http://wordpress.org/extend/plugins/blogger-importer/"
+
+#. Plugin Name of the plugin/theme
+msgid "Blogger Importer"
+msgstr "ייבוא מבלוגר"
+
+#. #-#-#-#-#  tmp-blogger-importer.pot (Blogger Importer 0.9)  #-#-#-#-#
+#. Description of the plugin/theme
+#: blogger-importer.php:915
+msgid "Import posts, comments, and categories from a Blogger blog and migrate authors to WordPress users."
+msgstr "מיבוא פוסטים, תגובות ותגיות מבלוג וייבוא משתמשים למשתמשים וורדפרס."
+
+#. Author URI of the plugin/theme
+msgid "http://wordpress.org/"
+msgstr "http://he.wordpress.org/"
+
+#. Author of the plugin/theme
+msgid "wordpressdotorg"
+msgstr "wordpressdotorg"
